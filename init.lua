@@ -15,5 +15,5 @@ require("plugin-config.lualine")
 -- 搜索工具
 require("plugin-config.telescope")
 -- vim 项目管理插件
-require("plugin-config.dashboard")
+require("plugin-config.startup")
 require("plugin-config.project")
